@@ -2,9 +2,10 @@
   "name": "kizume-node-ui",
   "version": "1.0.0",
   "description": "Node.js implementation of Kizume UI",
-  "main": "index.js",
+  "main": "server.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
   },
   "repository": {
     "type": "git",
